@@ -1,0 +1,5 @@
+fixtures
+.elixir_ls
+.mix
+deps
+_build
