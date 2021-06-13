@@ -19,7 +19,6 @@ defmodule CodeSamples.Mixfile do
   defp deps do
      [
        {:jason, "~> 1.2"},
-       {:exexif, "~> 0.0.5"}
      ]
   end
 end
